@@ -61,8 +61,8 @@ PROT is an educational tool. **It is not a lawyer and does not provide legal adv
 
 ## Contact
 
-- **Support:** [support@prot.app](mailto:support@prot.app)
-- **Privacy:** [privacy@prot.app](mailto:privacy@prot.app)
+- **Support:** [support@prot.app](mailto:support@protsec.app)
+- **Privacy:** [privacy@prot.app](mailto:privacy@protsec.app)
 
 ---
 
