@@ -16,7 +16,7 @@ Risk is graded across four levels:
 
 | Level | Meaning |
 |---|---|
-| ☢️ Nuclear | Combination clauses that may be unconscionable or void |
+| ☢️ Nuclear | Combination clauses that may present a severe risk for users |
 | 🚨 High | Clauses that significantly favour the company over you |
 | ⚠️ Medium | Clauses worth reading carefully |
 | ℹ️ Low | Standard terms that still carry some risk |
